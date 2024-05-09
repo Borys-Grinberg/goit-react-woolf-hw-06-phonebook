@@ -23,5 +23,5 @@
 
 .btn-delete:active {
   padding: 3px 15px;
-  border: 1px solid white;
+  border: 1px solid hsl(0, 0%, 100%);
 }
